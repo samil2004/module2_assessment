@@ -1,0 +1,11 @@
+# Virtual environments
+/reg/
+/.venv/
+/venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
